@@ -1,0 +1,8 @@
+bin/
+obj/
+*.iml
+_ReSharper.Caches/
+.idea/
+.vs/
+*.sln.DotSettings.user
+*.dll
